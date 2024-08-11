@@ -6,7 +6,7 @@ Security analysis: Detecting malicious activity or vulnerabilities.  
 Protocol analysis: Understanding how network protocols function.   
 Application development: Debugging network-related issues in applications.
 
-Logical Flow Diagram:
+**Logical Flow Diagram:**
 
 ![Logical Flow Diagram](https://user-images.githubusercontent.com/46072258/117496610-e829b480-af94-11eb-9f22-354b9a9773c2.jpg)
 
