@@ -12,5 +12,4 @@ Logical Flow Diagram:
 
 
 
-Generating ARP and ICMP Traffic:
-![Generating ICMP and ARP packets](https://user-images.githubusercontent.com/46072258/117494901-9a13b180-af92-11eb-860e-ef44c803b06f.PNG)
+
