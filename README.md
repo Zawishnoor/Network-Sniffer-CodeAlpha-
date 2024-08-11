@@ -10,8 +10,7 @@ Logical Flow Diagram:
 
 ![Logical Flow Diagram](https://user-images.githubusercontent.com/46072258/117496610-e829b480-af94-11eb-9f22-354b9a9773c2.jpg)
 
-Application Execution:
-![Running The Application1](https://user-images.githubusercontent.com/46072258/117494874-8b2cff00-af92-11eb-8676-4d402b14d397.PNG)
+
 
 Generating ARP and ICMP Traffic:
 ![Generating ICMP and ARP packets](https://user-images.githubusercontent.com/46072258/117494901-9a13b180-af92-11eb-860e-ef44c803b06f.PNG)
